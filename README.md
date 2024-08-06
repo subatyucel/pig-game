@@ -57,3 +57,5 @@ TR;
 ## OYUNU KAZANMAK
 
 - Oyunculardan birisi ana skorunu 100'e ulaştırana kadar oynamaya devam ederler. 100 puana ilk ulaşan oyunun galibi olur.
+
+### This project is for practicing DOM with lessons from [@jonasschmedtmann](https://github.com/jonasschmedtmann)
