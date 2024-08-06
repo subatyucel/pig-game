@@ -28,6 +28,8 @@ EN;
 
 - The game continues until one player reaches the 100 points of overall score. That player is declared the winner.
 
+### This project is for practicing DOM with lessons from [@jonasschmedtmann](https://github.com/jonasschmedtmann)
+
 TR;
 
 # NASIL OYNANIR?
@@ -58,4 +60,4 @@ TR;
 
 - Oyunculardan birisi ana skorunu 100'e ulaştırana kadar oynamaya devam ederler. 100 puana ilk ulaşan oyunun galibi olur.
 
-### This project is for practicing DOM with lessons from [@jonasschmedtmann](https://github.com/jonasschmedtmann)
+### Bu proje [@jonasschmedtmann](https://github.com/jonasschmedtmann)'ın DOM dersinin pratiği olarak hazırlanmıştır.
