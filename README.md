@@ -24,7 +24,7 @@ EN;
 - If a player rolls a 1, the current (turn) total for that turn is lost, and the player's turn ends. The current (turn) total does not get added to the player's overall score.
 - If the player decides to "hold," the turn total is added to their score, and the turn ends.
 
-##W inning the Game:
+## Winning the Game:
 
 - The game continues until one player reaches the 100 points of overall score. That player is declared the winner.
 
